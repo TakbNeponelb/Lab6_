@@ -1,0 +1,13 @@
+﻿  LAB6.cpp
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(64,14): warning C4477: "fscanf": в строке форматирования "%10s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(88,14): warning C4477: "fscanf": в строке форматирования "%5s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(127,12): warning C4477: "printf": в строке форматирования "%10s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(127,12): warning C4477: "printf": в строке форматирования "%2s" требуется аргумент типа "char *", но вариативный аргумент "4" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(127,12): warning C4477: "printf": в строке форматирования "%2s" требуется аргумент типа "char *", но вариативный аргумент "5" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(162,10): warning C4477: "printf": в строке форматирования "%10s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(162,10): warning C4477: "printf": в строке форматирования "%5s" требуется аргумент типа "char *", но вариативный аргумент "6" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(162,10): warning C4477: "printf": в строке форматирования "%10s" требуется аргумент типа "char *", но вариативный аргумент "7" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(173,11): warning C4477: "printf": в строке форматирования "%10s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(173,11): warning C4477: "printf": в строке форматирования "%5s" требуется аргумент типа "char *", но вариативный аргумент "6" имеет тип "int"
+C:\Users\zelle\source\repos\LAB6\LAB6\LAB6.cpp(173,11): warning C4477: "printf": в строке форматирования "%10s" требуется аргумент типа "char *", но вариативный аргумент "7" имеет тип "int"
+  LAB6.vcxproj -> C:\Users\zelle\source\repos\LAB6\Debug\LAB6.exe
